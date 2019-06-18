@@ -1,6 +1,5 @@
-{
+﻿{
   "homePageContent": { 
-	"statusCode":200,
-	"data": "一条测试数据" 
+	"data": "一条测试数据，妈的搞死我了" 
 	}
 }
