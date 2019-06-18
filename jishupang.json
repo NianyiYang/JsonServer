@@ -1,3 +1,6 @@
 {
-  "homePageContent": { "data": "一条测试数据" }
+  "homePageContent": { 
+	"statusCode":200,
+	"data": "一条测试数据" 
+	}
 }
