@@ -2,44 +2,57 @@
 	"homePageContent": {
 		"data": {
 			"slides": [{
-				"image": "http://blogimages.jspang.com/flutter_ad2.jpg"
-			}, {
-				"image": "http://blogimages.jspang.com/Vue_koa_ad1.jpg"
-			}, {
-				"image": "http://blogimages.jspang.com/WechatIMG12.jpeg"
-			}],
+					"image": "http://blogimages.jspang.com/flutter_ad2.jpg"
+				},
+				{
+					"image": "http://blogimages.jspang.com/Vue_koa_ad1.jpg"
+				},
+				{
+					"image": "http://blogimages.jspang.com/WechatIMG12.jpeg"
+				}
+			],
 			"category": [{
-				"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
-				"name": "白酒"
-			}, {
-			"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280919080930420.png",
-				"name": "啤酒"
-			}, {
-			"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918494822090.png",
-				"name": "葡萄酒"
-			}, {
-			"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918494822090.png",
-				"name": "清酒洋酒"
-			}, {
-			"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
-				"name": "保健酒"
-			}, {
-			"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
-				"name": "预调酒"
-			}, {
-			"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
-				"name": "下酒小菜"
-			}, {
-			"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
-				"name": "饮料"
-			}, {
-			"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
-				"name": "乳制品"
-			}, {
-			"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280919479355120.png",
-				"name": "休闲零食"
-			}],
-			"adResource":"https://jspang.com/images/zhishixingqiu.png"
+					"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
+					"name": "白酒"
+				},
+				{
+					"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280919080930420.png",
+					"name": "啤酒"
+				},
+				{
+					"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918494822090.png",
+					"name": "葡萄酒"
+				},
+				{
+					"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918494822090.png",
+					"name": "清酒洋酒"
+				},
+				{
+					"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
+					"name": "保健酒"
+				},
+				{
+					"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
+					"name": "预调酒"
+				},
+				{
+					"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
+					"name": "下酒小菜"
+				},
+				{
+					"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
+					"name": "饮料"
+				},
+				{
+					"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280918332737800.png",
+					"name": "乳制品"
+				},
+				{
+					"icon": "http://img6.zhongjiu.cn/resourceb2b2c//Storage/Plat/ImageAd/201609280919479355120.png",
+					"name": "休闲零食"
+				}
+			],
+			"adResource": "https://jspang.com/images/zhishixingqiu.png"
 		}
 	}
 }
